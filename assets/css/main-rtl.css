@@ -1,0 +1,175 @@
+/*
+* Restoo -Responsive Template For Restaurant
+* Build Date: dec 2019
+* Author: PharaohLab
+* Copyright (C) 2019 PharaohLab
+* RTL FILE TO HANDEL ARABIC AND OTHER LANG
+*/
+@import url("https://fonts.googleapis.com/css?family=Cairo:400,600,700&display=swap");
+/*GENERAL RTL DIRECTION AND TEXT */
+body {
+  direction: rtl;
+  text-align: right;
+  font-family: "Cairo", sans-serif !important;
+  font-style: normal !important; }
+
+h1, h2, h3, h4, h5, h6, p, a, .form-control {
+  font-family: "Cairo", sans-serif !important;
+  font-style: normal !important;
+  letter-spacing: 0 !important; }
+
+.ml-auto, .mx-auto {
+  margin-right: auto !important;
+  margin-left: 0 !important; }
+
+/*header */
+.header .header-btns a, .header.sticky .header-btns a {
+  border-left: 0;
+  border-right: solid 1px rgba(255, 255, 255, 0.2); }
+
+.header .menu .nav-link, .header.sticky .menu .nav-link {
+  font-weight: 700; }
+  .header .menu .nav-link:before, .header.sticky .menu .nav-link:before {
+    right: 15px; }
+
+.header .menu .nav-link.has_sub_menu {
+  padding-left: 20px; }
+  .header .menu .nav-link.has_sub_menu:after {
+    left: 7px; }
+
+.footer .footer-copyright p {
+  font-weight: 700; }
+
+@media (min-width: 992px) {
+  .text-lg-right {
+    text-align: left !important; } }
+
+.cover .cover-title {
+  font-size: 56px;
+  line-height: 65px; }
+
+.cover-slider .slider_content .icon {
+  max-width: 115px !important;
+  margin-bottom: 0 !important; }
+
+.cover-slider .slider_content .slider-content-center {
+  max-width: 750px; }
+
+.section-title .small-title {
+  font-weight: 700; }
+
+.section-title-two .small-title {
+  font-weight: 700; }
+
+.filtr-container {
+  direction: ltr !important; }
+
+.menu-block .inner-box {
+  text-align: right; }
+  .menu-block .inner-box .menu-tag {
+    text-align: right;
+    right: 0; }
+  .menu-block .inner-box .post-title {
+    font-weight: 700;
+    padding-left: 5px; }
+  .menu-block .inner-box .price {
+    padding-right: 7px; }
+  .menu-block .inner-box .ingradien-text {
+    padding-left: 80px;
+    padding-right: 0; }
+
+.icon-tabs li a {
+  font-weight: 700;
+  margin-left: 0; }
+
+.form-control {
+  FONT-STYLE: normal;
+  font-weight: 600; }
+
+.nice-select.form-control {
+  FONT-STYLE: normal; }
+
+.nice-select .list {
+  FONT-STYLE: normal;
+  direction: rtl; }
+
+.nice-select.form-control, .nice-select .option {
+  direction: rtl !important;
+  text-align: right !important; }
+
+.nice-select:after {
+  right: auto;
+  left: 12px; }
+
+.button, input[type='button'], input[type='reset'], .btn {
+  font-size: 16px;
+  letter-spacing: 0;
+  font-weight: 700;
+  font-family: "Cairo", sans-serif; }
+
+.team-item .team-wrap .team-content .team-role {
+  font-style: normal; }
+
+.team-item-two .team-wrap .team-content .team-name {
+  font-weight: 700; }
+
+.team-item-two .team-wrap .team-content .team-role {
+  font-style: normal; }
+
+.blog-post-one .info-post {
+  float: right; }
+  .blog-post-one .info-post .cat-name {
+    left: auto;
+    right: 15px; }
+  .blog-post-one .info-post .meta-post li {
+    padding-left: 10px;
+    font-style: normal; }
+    .blog-post-one .info-post .meta-post li i {
+      padding-left: 5px; }
+  .blog-post-one .info-post .arrow-btn {
+    transform: rotate(180deg); }
+
+.blog-post-two .blog-side-box {
+  float: right; }
+
+.blog-post-two .info-post .cat-name {
+  margin-right: 0; }
+
+.blog-post-two .info-post .meta-post {
+  padding: 0;
+  margin: 0; }
+  .blog-post-two .info-post .meta-post li {
+    padding-left: 10px; }
+    .blog-post-two .info-post .meta-post li i {
+      padding-left: 5px; }
+
+.blog-post-two .info-post .arrow-btn {
+  transform: rotate(180deg); }
+
+.blog-articles article:nth-child(odd) .blog-post-two .side-post-content {
+  text-align: right; }
+  .blog-articles article:nth-child(odd) .blog-post-two .side-post-content .info-post .cat-name {
+    display: inline-block;
+    margin-right: 0;
+    margin-left: auto; }
+  .blog-articles article:nth-child(odd) .blog-post-two .side-post-content .info-post .footer-info-post {
+    text-align: right; }
+  .blog-articles article:nth-child(odd) .blog-post-two .side-post-content .info-post .arrow-btn {
+    transform: rotate(180deg);
+    max-width: 50px;
+    margin-right: 0;
+    margin-left: auto; }
+
+.blog-articles article:nth-child(odd) .blog-post-two .side-post-image {
+  float: right;
+  order: 2; }
+
+.sidebar {
+  margin-bottom: 90px;
+  padding: 15px 20px; }
+  .sidebar.sidebar-left {
+    padding-left: 0; }
+  .sidebar.sidebar-right {
+    padding-right: 0; }
+
+/*# sourceMappingURL=main-rtl.css.map */
