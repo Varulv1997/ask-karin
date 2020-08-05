@@ -2501,7 +2501,7 @@ textarea.form-control {
     border: 2px solid #3a3d43 !important;
     background-color: #3a3d43 !important;
     color: #ffffff !important;
-    box-shadow: 5px 5px 0 0 rgb(255 117 64 / 30%); }
+    box-shadow: 5px 5px 0 0 rgb(255 117 64 / 30%) }
     .btn-primary:hover i, .btn-primary:focus i {
       color: #ffffff !important; }
 
@@ -2516,7 +2516,7 @@ textarea.form-control {
     border: 2px solid #ff4526 !important;
     background-color: #ff4526 !important;
     color: #ffffff !important;
-    box-shadow: 0 0 0 0 rgba(187, 147, 86, 0); }
+    box-shadow: 5px 5px 0 0 rgb(255 117 64 / 30%); }
     .btn-primary-outline:hover i, .btn-primary-outline:focus i {
       color: #ffffff !important; }
 
@@ -2530,7 +2530,7 @@ textarea.form-control {
   .btn-dark:hover, .btn-dark:focus {
     border: 2px solid #111111 !important;
     background-color: #111111 !important;
-    box-shadow: 0 0 0 0 rgba(187, 147, 86, 0);
+    box-shadow: 5px 5px 0 0 rgb(255 117 64 / 30%);
     color: #ffffff !important; }
     .btn-dark:hover i, .btn-dark:focus i {
       color: #ffffff !important; }
@@ -2546,7 +2546,7 @@ textarea.form-control {
     border: 2px solid #3a3d43 !important;
     background-color: #3a3d43 !important;
     color: #ffffff !important;
-    box-shadow: 0 0 0 0 rgba(187, 147, 86, 0); }
+    box-shadow: 5px 5px 0 0 rgb(255 117 64 / 30%); }
     .btn-dark-outline:hover i, .btn-dark-outline:focus i {
       color: #ffffff !important; }
 
@@ -2561,7 +2561,7 @@ textarea.form-control {
     border: 2px solid #ffffff !important;
     background-color: #ffffff !important;
     color: #ff4526 !important;
-    box-shadow: 0 0 0 0 rgba(187, 147, 86, 0); }
+    box-shadow: 5px 5px 0 0 rgb(255 117 64 / 30%); }
     .btn-light:hover i, .btn-light:focus i {
       color: #ff4526 !important; }
 
@@ -2576,7 +2576,7 @@ textarea.form-control {
     border: 2px solid #ffffff !important;
     background-color: #ffffff !important;
     color: #ff4526 !important;
-    box-shadow: 0 0 0 0 rgba(187, 147, 86, 0); }
+    box-shadow: 5px 5px 0 0 rgb(255 117 64 / 30%); }
     .btn-light-outline:hover i, .btn-light-outline:focus i {
       color: #ff4526 !important; }
 
