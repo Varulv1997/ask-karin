@@ -1845,7 +1845,7 @@ blockquote cite {
       padding-bottom: 20px;
       border-left: solid 1px #f6f9fc; }
 
-.header_menu_btn {
+* {
   padding: 21px 25px;
   font-size: 22px;
   outline: 0 !important;
@@ -1872,8 +1872,10 @@ blockquote cite {
   -ms-user-select: none;
   user-select: none;
   position: absolute;
+  margin-right: 43px;
   top: 50%;
   left: 50%;
+  
   margin-left: -15px;
   margin-top: -1.5px; }
 
