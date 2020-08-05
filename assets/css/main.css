@@ -526,7 +526,7 @@ iframe, video, embed {
   border-radius: 0;
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
-  box-shadow: 5px 5px 0 0 rgb(255 117 64 / 30%); }
+  box-shadow: 5px 5px 0 0 rgb(255 69 38 / 25%); }
   .back-to-top i {
     display: block;
     line-height: 1; }
@@ -1857,9 +1857,9 @@ blockquote cite {
   background-color: transparent;
   border: 0;
   display: inline-block;
-  margin-right: 43px;
   text-align: center;
-  margin: 0; }
+  margin: 0;
+  margin-right: 43px !important; }
 
 .header_menu_btn .navbar-toggler-icon {
   width: 20px;
