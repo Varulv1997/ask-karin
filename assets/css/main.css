@@ -2494,14 +2494,14 @@ textarea.form-control {
   border: 2px solid #da0037 !important;
   background-color: #da0037 !important;
   color: #ffffff !important;
-  box-shadow: 5px 5px 0 0 rgb(255 117 64 / 30%); }
+  box-shadow: 5px 5px 0 0 rgb(229 20 72 / 42%); }
   .btn-primary i {
     color: #ffffff !important; }
   .btn-primary:hover, .btn-primary:focus {
     border: 2px solid #2A2731 !important;
     background-color: #2A2731 !important;
     color: #ffffff !important;
-    box-shadow: 5px 5px 0 0 rgb(255 117 64 / 30%) }
+    box-shadow: 5px 5px 0 0 rgb(229 20 72 / 42%) }
     .btn-primary:hover i, .btn-primary:focus i {
       color: #ffffff !important; }
 
@@ -2509,14 +2509,14 @@ textarea.form-control {
   border: 2px solid #da0037 !important;
   background-color: transparent !important;
   color: #da0037 !important;
-  box-shadow: 5px 5px 0 0 rgb(255 117 64 / 30%); }
+  box-shadow: 5px 5px 0 0 rgb(229 20 72 / 42%); }
   .btn-primary-outline i {
     color: #da0037 !important; }
   .btn-primary-outline:hover, .btn-primary-outline:focus {
     border: 2px solid #da0037 !important;
     background-color: #da0037 !important;
     color: #ffffff !important;
-    box-shadow: 5px 5px 0 0 rgb(255 117 64 / 30%); }
+    box-shadow: 5px 5px 0 0 rgb(229 20 72 / 42%); }
     .btn-primary-outline:hover i, .btn-primary-outline:focus i {
       color: #ffffff !important; }
 
@@ -2530,7 +2530,7 @@ textarea.form-control {
   .btn-dark:hover, .btn-dark:focus {
     border: 2px solid #2A2731 !important;
     background-color: #2A2731 !important;
-    box-shadow: 5px 5px 0 0 rgb(255 117 64 / 30%);
+    box-shadow: 5px 5px 0 0 rgb(229 20 72 / 42%);
     color: #ffffff !important; }
     .btn-dark:hover i, .btn-dark:focus i {
       color: #ffffff !important; }
@@ -2546,7 +2546,7 @@ textarea.form-control {
     border: 2px solid #2A2731 !important;
     background-color: #2A2731 !important;
     color: #ffffff !important;
-    box-shadow: 5px 5px 0 0 rgb(255 117 64 / 30%); }
+    box-shadow: 5px 5px 0 0 rgb(229 20 72 / 42%); }
     .btn-dark-outline:hover i, .btn-dark-outline:focus i {
       color: #ffffff !important; }
 
@@ -2561,7 +2561,7 @@ textarea.form-control {
     border: 2px solid #ffffff !important;
     background-color: #ffffff !important;
     color: #da0037 !important;
-    box-shadow: 5px 5px 0 0 rgb(255 117 64 / 30%); }
+    box-shadow: 5px 5px 0 0 rgb(229 20 72 / 42%); }
     .btn-light:hover i, .btn-light:focus i {
       color: #da0037 !important; }
 
@@ -2576,7 +2576,7 @@ textarea.form-control {
     border: 2px solid #ffffff !important;
     background-color: #ffffff !important;
     color: #da0037 !important;
-    box-shadow: 5px 5px 0 0 rgb(255 117 64 / 30%); }
+    box-shadow: 5px 5px 0 0 rgb(229 20 72 / 42%); }
     .btn-light-outline:hover i, .btn-light-outline:focus i {
       color: #da0037 !important; }
 
